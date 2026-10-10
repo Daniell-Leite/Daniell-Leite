@@ -21,3 +21,14 @@ Me chamo Daniell Leite, sou estudante de Ciência da computação, um curioso so
   <img src="https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=Obsidian&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
 </p>
+<h2 align="center"> Contatos </h2>
+<p align="center">
+  <a href="https://www.linkedin.com/in/daniell-leite/">Likedin</a> | 
+  <a href="mailto:daniellleite100@gmail.com">E-mail</a>
+</p>
+
+<h2 align="center"> O que estou estudando e construindo </h2>
+<ul>
+  <li><strong>Estudando atualmente:</strong> Banco de dados, SQL , logica de programacao em C.</li>
+  <li><strong>Construindo no momento:</strong> Projeto de desenvolvimento de um site para a web utilizando o bootstrap</li>
+</ul>
