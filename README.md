@@ -24,7 +24,7 @@ Me chamo Daniell Leite, sou estudante de Ciência da computação, um curioso so
 <h2 align="center"> Contatos </h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/daniell-leite/">Likedin</a> | 
-  <a href="mailto:daniellleite100@gmail.com">E-mail</a>
+  <a href="mailto:daniellleite100@gmail.com">|E-mail</a>
   <a href="https://daniell-leite.github.io/portfolio/">Portfólio</a> 
 </p>
 
